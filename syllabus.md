@@ -14,3 +14,5 @@ Office: 1003
 ### Week 2
 - Langhamer, Claire. *The Meanings of Home in Postwar Britain*
 
+### Week 3
+- Presentation by Dr. Chris Bischof
