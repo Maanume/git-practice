@@ -16,3 +16,6 @@ Office: 1003
 
 ### Week 3
 - Presentation by Dr. Chris Bischof
+
+### Week 4
+- no class, MLK day
