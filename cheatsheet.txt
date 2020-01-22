@@ -1,0 +1,11 @@
+My Institute Cheat Sheet
+echo is for repeating things
+cat is for reading text files
+pwd is print working directory
+cd is change directory
+ls is list what is in the directory or folder
+mkdir is to create a directory 
+cd .. is for moving back a directory
+cd ~ goes back to home directory
+using up arrow reuses previous command
+touch to see or create a new files
