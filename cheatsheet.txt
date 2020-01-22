@@ -9,3 +9,8 @@ cd .. is for moving back a directory
 cd ~ goes back to home directory
 using up arrow reuses previous command
 touch to see or create a new files
+
+**Git/Git Hub**
+- git add (file name)
+- Git commit -m “changes made”
+- Git push origin master
